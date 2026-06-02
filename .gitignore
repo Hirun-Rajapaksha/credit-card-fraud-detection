@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Dataset files
+data/
+*.csv
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
