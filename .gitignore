@@ -13,6 +13,7 @@ __pycache__/
 # Dataset files
 data/
 *.csv
+creditcard.csv/
 
 # VS Code settings
 .vscode/
